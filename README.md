@@ -1,1 +1,5 @@
-# Omics-in-practice
+## Omics-in-practice
+#This repository contains the computational analysis scripts generated during the *Omics in Practice* course (NWI-BM094) at Radboud University, as part of the #Master's programme in Medical Epigenomics.
+#The project focuses on investigating the effects of drug treatment on acute myeloid leukemia (AML) cells through multi-omics analysis.
+#The repository will include scripts for RNA-seq analysis, epigenomic analysis, proteomics, and data integration.
+#The aim is to document computational workflows and ensure that the analyses are reproducible.
